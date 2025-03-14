@@ -11,3 +11,8 @@
 
 
 bowtie2 -x cat_index -q -1 Trimmed_SRR23085866_1.fastq -2 Trimmed_SRR23085866_2.fastq --no-unal --local --score-min C,50,1 --threads 4 -S SRR23085866.sam
+
+
+
+###### Check the files by ls -l
+ls -l
