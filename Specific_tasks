@@ -1,0 +1,8 @@
+
+####### Remove/delete files
+
+rm Trimmed_improved_SRR23085866_2.fastq
+
+####### check the list
+
+ls -l
