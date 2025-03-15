@@ -3,6 +3,8 @@
 
 rm Trimmed_improved_SRR23085866_2.fastq
 
+####### similarly, do it for other Trimmed files
+
 ####### check the list
 
 ls -l
