@@ -1,10 +1,11 @@
 
-####### Remove/delete files
+####### Instruction for reference genome download  
 
-rm Trimmed_improved_SRR23085866_2.fastq
 
-####### similarly, do it for other Trimmed files
+https://www.ncbi.nlm.nih.gov/datasets/genome/
 
-####### check the list
 
-ls -l
+meleagrid alphaherpesvirus 1
+gallid alphaherpesvirus 2
+
+
